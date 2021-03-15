@@ -8,7 +8,7 @@ def my_function(a,b = 0):
     print('b is', b)
   #  return result
     
-print(my_function(1))
+#print(my_function(1))
 
 def calculate_abs(a):
     if type(a) is str:
@@ -17,7 +17,7 @@ def calculate_abs(a):
         return a
     else: 
         return -a
-print(calculate_abs('b'))
+#print(calculate_abs('b'))
 
 def cal_sigma(m,n):
     
@@ -27,7 +27,7 @@ def cal_sigma(m,n):
         result = result + i
     return result
         
-print(cal_sigma(5,3))
+#print(cal_sigma(5,3))
 
 def cal_pi(m,n):
     
@@ -37,7 +37,7 @@ def cal_pi(m,n):
         result = result * i
     return result
     
-print(cal_pi(5,3))
+#print(cal_pi(5,3))
 
 def cal_f(m):
     
@@ -46,9 +46,9 @@ def cal_f(m):
     else:
         return m * cal_f(m-1)
         
-print(cal_f(5))
+#print(cal_f(5))
 
 def cal_p(m,n):
     return cal_f(m)/cal_f(m-n)
     
-print(cal_p(6,4))
+#print(cal_p(6,4))
