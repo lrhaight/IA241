@@ -10,3 +10,9 @@ Contact at lrhaight02@gmail.com
 
 
 ### level 3 heading
+
+**bold**
+
+*italicize*
+
+> quote
