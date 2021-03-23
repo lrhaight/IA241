@@ -24,3 +24,5 @@ Contact at lrhaight02@gmail.com
 * item1
 * item2
 * item3
+
+[lab1](https://github.com/lrhaight/IA241/blob/main/Lab1.py)
