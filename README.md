@@ -26,3 +26,5 @@ Contact at lrhaight02@gmail.com
 * item3
 
 [lab1](https://github.com/lrhaight/IA241/blob/main/Lab1.py)
+
+)![jmu image](https://www.jmu.edu/_images/_story-rotator/full-width-images/choices2-2000x666.jpg)
